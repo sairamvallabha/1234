@@ -1,5 +1,5 @@
 module "devenvi" {
-    source = "./fff"
+    source = "./folder"
 
     azurerm_resource_group-name = "Devone-rg"
     location = "eastus"
